@@ -1,4 +1,11 @@
+[![Igor Gonchar Linkedin header](https://media-exp1.licdn.com/dms/image/C4E16AQFX4bM7ZRlDkA/profile-displaybackgroundimage-shrink_350_1400/0/1613136589594?e=1635984000&v=beta&t=6s8Jx_oEoamXkaDDsm69AHuCUu8SNXDSaO7HCvKbTP8)](https://www.linkedin.com/in/igor-gonchar)
+
 ### Hi there, my name is Igor 👋
+
+
+
+
+
 
 
 
