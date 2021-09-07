@@ -13,14 +13,14 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 
 ### ⚙️ GitHub Analytics
 
-
-<span>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=dracula&hide=prs" />
-</span>
-<span>
-  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=dracula&layout=compact" />
-</span>
-
+<p align="center">
+  <a href="https://github.com/GoncharIgor">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=algolia&hide=prs&include_all_commits=true&count_private=true" />
+  </a>  
+  <a href="https://github.com/GoncharIgor">
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=algolia&layout=compact" />
+  </a>
+</p>
 
 
 ### 🔎 Find me
