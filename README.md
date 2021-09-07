@@ -5,14 +5,14 @@
 I'm a Fullstack developer. With passion and love in heart to FE, I'm also engaged in server side and CI/CD activities
 
 
- <!-- ## 🛠 My Tech Stack -->
+## 🛠 My Tech Stack
 
 
 
 ## 🔎 Find me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/igor-gonchar)
-[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&labelColor=black)](https://igorgonchar.medium.com)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=2867B2)](https://www.linkedin.com/in/igor-gonchar)
+[![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&labelColor=black)](https://igorgonchar.medium.com)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&labelColor=4267B2&logoColor=white)](https://www.facebook.com/igorgoncharua)
 
 
 <!--
