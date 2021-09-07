@@ -1,15 +1,29 @@
 [![Igor Gonchar Linkedin header](https://media-exp1.licdn.com/dms/image/C4E16AQFX4bM7ZRlDkA/profile-displaybackgroundimage-shrink_350_1400/0/1613136589594?e=1635984000&v=beta&t=6s8Jx_oEoamXkaDDsm69AHuCUu8SNXDSaO7HCvKbTP8)](https://www.linkedin.com/in/igor-gonchar)
 
-### Hi there, my name is Igor 👋
+## Hi there, my name is Igor 👋
 
-I'm a Fullstack developer. With passion and love in heart to FE, I'm also engaged in server side and CI/CD activities
-
-
-## 🛠 My Tech Stack
+I'm a Fullstack developer. With passion and love in heart specifically to FrontEnd, I'm also engaged in server side and CI/CD activities
 
 
+### 🛠 My Tech Stack
 
-## 🔎 Find me
+
+<!-- ### ⚙️ GitHub Analytics
+![GoncharIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor) -->
+
+### ⚙️ GitHub Analytics
+
+
+<span>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=dracula&hide=prs" />
+</span>
+<span>
+  <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=dracula&layout=compact" />
+</span>
+
+
+
+### 🔎 Find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=2867B2)](https://www.linkedin.com/in/igor-gonchar)
 [![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&labelColor=black)](https://igorgonchar.medium.com)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&labelColor=4267B2&logoColor=white)](https://www.facebook.com/igorgoncharua)
