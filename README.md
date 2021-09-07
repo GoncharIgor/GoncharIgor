@@ -15,8 +15,8 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 
 <p align="center">
   <a href="https://github.com/GoncharIgor">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GoncharIgor&show_icons=true&theme=algolia&hide=prs&include_all_commits=true&count_private=true" />
-    <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GoncharIgor&theme=algolia&layout=compact" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=algolia&hide=prs&include_all_commits=true&count_private=true" />
+    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=algolia&layout=compact" />
   </a>
 </p>
 
