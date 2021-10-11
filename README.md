@@ -7,6 +7,12 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 
 ### 🛠 My Tech Stack
 
+<img src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
+<img src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
+<img src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
+<img src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
+<img src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>
+
 
 <!-- ### ⚙️ GitHub Analytics
 ![GoncharIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor) -->
