@@ -1,10 +1,12 @@
 [![Igor Gonchar Linkedin header](https://media-exp1.licdn.com/dms/image/C4E16AQFX4bM7ZRlDkA/profile-displaybackgroundimage-shrink_350_1400/0/1613136589594?e=1635984000&v=beta&t=6s8Jx_oEoamXkaDDsm69AHuCUu8SNXDSaO7HCvKbTP8)](https://www.linkedin.com/in/igor-gonchar)
 
+<br/>
 ## Hi there, my name is Igor 👋
 
 I'm a Fullstack developer. With passion and love in heart specifically to FrontEnd, I'm also engaged in server side and CI/CD activities
 
-
+<br/>
+<br/>
 ### 🛠 My Tech Stack
 
 <div style="display:flex">
@@ -18,9 +20,11 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 <!-- ### ⚙️ GitHub Analytics
 ![GoncharIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor) -->
 
+<br/>
+<br/>
 ### ⚙️ GitHub Analytics
 
-<div align="center">
+<div>
   
 ![Igors GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&hide=prs&include_all_commits=true&count_private=true)  
   
@@ -28,7 +32,8 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
   
 </div>
 
-
+<br/>
+<br/>
 ### 🔎 Find me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=2867B2)](https://www.linkedin.com/in/igor-gonchar)
 [![Medium](https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=Medium&labelColor=black)](https://igorgonchar.medium.com)
