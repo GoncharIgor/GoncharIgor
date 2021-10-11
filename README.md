@@ -7,12 +7,13 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 
 ### 🛠 My Tech Stack
 
-<img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
-<img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
-<img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
-<img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
-<img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>
-
+<div style="display:flex">
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>
+</div>
 
 <!-- ### ⚙️ GitHub Analytics
 ![GoncharIgor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor) -->
