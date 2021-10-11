@@ -14,7 +14,8 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 ### ⚙️ GitHub Analytics
 
 <div align="center">
-  ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&hide=prs&include_all_commits=true&count_private=true)
+  ![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&hide=prs&include_all_commits=true&count_private=true)  
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GoncharIgor)](https://git.io/streak-stats)
 </div>
 
