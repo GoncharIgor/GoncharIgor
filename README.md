@@ -15,13 +15,13 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 
 <p align="center">
   <a href="https://github.com/GoncharIgor">
-    <img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=algolia&hide=prs&include_all_commits=true&count_private=true" />
+    <img style="width:100%; height:180px" src="https://github-readme-stats.vercel.app/api?username=GoncharIgor&show_icons=true&theme=algolia&hide=prs&include_all_commits=true&count_private=true" />
   </a>
 </p>
 
 <p align="center">
   <a>
-    <img style="width:100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=algolia&layout=compact" />
+    <img style="width:100%; height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoncharIgor&theme=algolia&layout=compact" />
   </a>
 </p>
 
