@@ -12,14 +12,12 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
 ### 🛠 My Tech Stack
 
 <div style="display:flex">
-  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
-  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
-  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
-  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
+  <img height="100" style="margin-right: 20px;" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
+  <img height="100" style="margin-right: 20px;" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
+  <img height="100" style="margin-right: 20px;" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
+  <img height="100" style="margin-right: 20px;" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
   <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>
 </div>
-
-<img src="tech-stack.svg" width="600" height="100" alt="css-in-readme">
 
 <br/>
 <br/>
