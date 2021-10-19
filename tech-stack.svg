@@ -7,11 +7,12 @@
                 }
             </style>
             <div style="display:flex">
-                <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/angular-logo.svg"/>
-                <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/react-logo.svg"/>
-                <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>
-                <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>
-                <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>
+                <img height="100" src="/assets/angular-logo.svg"/>
+                <img height="100" src="/blob/main/assets/react-logo.svg"/>
+                <img height="100" src="assets/nodejs-logo.svg"/>
+                <img height="100" src="blob/main/assets/firebase-logo.svg"/>
+                <img height="100" src="./assets/rxjs-logo.svg"/>
+                <img height="100" src="./blob/main/assets/rxjs-logo.svg"/>
             </div>
         </div>
     </foreignObject>
