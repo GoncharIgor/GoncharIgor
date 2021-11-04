@@ -17,7 +17,8 @@ I'm a Fullstack developer. With passion and love in heart specifically to FrontE
   <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/nodejs-logo.svg"/>&nbsp;&nbsp;
   <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/firebase-logo.svg"/>&nbsp;&nbsp;
   <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/rxjs-logo.svg"/>&nbsp;&nbsp;
-  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/jenkins-logo.svg"/>
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/jenkins-logo.svg"/>&nbsp;&nbsp;
+  <img height="100" src="https://github.com/GoncharIgor/GoncharIgor/blob/main/assets/cypress-logo.svg"/>
 </div>
 
 <br/>
